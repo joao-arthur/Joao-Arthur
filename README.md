@@ -6,4 +6,5 @@ I develop projects in `Node` and `React`
 I'm interested in collaborating to open source projects 
 
 ### Get in touch 📞
-joao.lothamer@gmail.com
+- <a href="mailto://joao.lothamer@gmail.com">E-Mail</a>
+- <a href="https://www.linkedin.com/in/joao-lothamer/">Linkedin</a>
