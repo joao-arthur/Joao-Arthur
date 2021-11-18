@@ -4,9 +4,7 @@
 
 I'm a computer science degree student and software developer
 
-I develop projects in `Node` and `React` (and I know a little bit of `Java` too)
-
-I'm interested in collaborating to open source projects 👨‍🔧
+I develop in `Node` and `React` (and a little bit of `Java` too)
 
 #### Get in touch 📞
 - <a href="mailto://joao.lothamer@gmail.com">E-Mail</a>
