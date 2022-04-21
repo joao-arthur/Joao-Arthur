@@ -18,7 +18,7 @@ You can download my cv [**here**](https://github.com/joao-arthur/aboutme.md/rele
 
 ---
 
-### Olá eu sou o João 😃
+### Olá, eu sou o João 😃
 
 #### Desenvolvedor Fullstack JS / TS 👨‍💻
 
