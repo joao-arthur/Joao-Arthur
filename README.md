@@ -10,10 +10,6 @@ Excited about `Clean Code` and `Clean Architecture` and `unit testing`
 
 Currently learning `Rust`
 
-- **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
-- **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
-- **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
-
 You can download my cv
 [**here**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-en.pdf)
 
@@ -31,9 +27,11 @@ Interessado em `Clean Code` e `Clean Architecture` e `testes unitários`
 
 Atualmente aprendendo `Rust`
 
+Você pode baixar o meu currículo
+[**aqui**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-pt.pdf)
+
+---
+
 - **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
 - **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
-
-Você pode baixar o meu currículo
-[**aqui**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-pt.pdf)
