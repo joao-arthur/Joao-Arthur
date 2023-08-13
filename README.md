@@ -4,17 +4,18 @@
 
 I'm a computer science degree student and software developer
 
-I have experience developing in `NodeJS`, `React` and `Java`
+I have experience in `NodeJS`, `React` and `Java`
 
-Excited about `TDD`, `Clean Code` and `Clean Architecture` 
+Excited about `Clean Code` and `Clean Architecture` and `unit testing`
 
-Currently learning `Rust` and `Elixir`
+Currently learning `Rust`
 
-#### Get in touch 📞
-- <a href="mailto://joao.lothamer@gmail.com">E-Mail</a>
-- <a href="https://www.linkedin.com/in/joao-lothamer/">Linkedin</a>
+- **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
+- **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
+- **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
 
-You can download my cv [**here**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/cv-webdev-joao-arthur.pdf)
+You can download my cv
+[**here**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-en.pdf)
 
 ---
 
@@ -22,16 +23,17 @@ You can download my cv [**here**](https://github.com/joao-arthur/aboutme.md/rele
 
 #### Desenvolvedor Fullstack JS / TS 👨‍💻
 
-Além de ser um desenvolvedor de software, atualmente estou cursando faculdade de ciência da computação
+Além de desenvolvedor de software, estou cursando ciência da computação
 
-Possuo experiência desenvolvendo em `NodeJS`, `React` e `Java`
+Possuo experiência `NodeJS`, `React` e `Java`
 
-Interessado em `TDD`, `Clean Code` e `Clean Architecture` 
+Interessado em `Clean Code` e `Clean Architecture` e `testes unitários`
 
-Atualmente aprendendo `Rust` e `Elixir`
+Atualmente aprendendo `Rust`
 
-#### Entre em contato 📞
-- <a href="mailto://joao.lothamer@gmail.com">E-Mail</a>
-- <a href="https://www.linkedin.com/in/joao-lothamer/">Linkedin</a>
+- **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
+- **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
+- **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
 
-Você pode baixar o meu currículo [**aqui**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/cv-webdev-joao-arthur-ptbr.pdf)
+Você pode baixar o meu currículo
+[**aqui**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-pt.pdf)
