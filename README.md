@@ -6,9 +6,9 @@ I'm a computer science degree student and software developer
 
 I have experience in `NodeJS`, `React` and `Java`
 
-Excited about `Clean Code` and `Clean Architecture` and `unit testing`
+I like `Clean Code`, `Clean Architecture` and `unit testing`
 
-Currently learning `Rust`
+I like linux, c and rust
 
 You can download my cv
 [**here**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-en.pdf)
