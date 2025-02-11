@@ -1,31 +1,31 @@
-### Hello, I'm João 😃
+## Hello, I'm João
 
-#### JS / TS Fullstack Developer 👨‍💻
+### Fullstack Developer for 6 years
 
-I'm a computer science degree student and software developer
+I'm a computer scientist and software developer
 
-I have experience in `NodeJS`, `React` and `Java`
+⏳ I have experience in `NodeJS`, `React` and `Spring`
 
-I like `Clean Code`, `Clean Architecture` and `unit testing`
+🤔 Interested in `Clean Architecture` and `unit testing`
 
-I like linux, c and rust
+🤓 Studing `Linux`, `C` e `Rust`
 
 You can download my cv
 [**here**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-en.pdf)
 
 ---
 
-### Olá, eu sou o João 😃
+## Olá, eu sou o João
 
-#### Desenvolvedor Fullstack JS / TS 👨‍💻
+### Desenvolvedor Fullstack há 6 anos
 
-Além de desenvolvedor de software, estou cursando ciência da computação
+👨‍💻 Sou cientista da computação e desenvolvedor de software
 
-Possuo experiência `NodeJS`, `React` e `Java`
+⏳ Possuo experiência em `NodeJS`, `React` e `Spring`
 
-Interessado em `Clean Code` e `Clean Architecture` e `testes unitários`
+🤔 Interessado em `Clean Architecture` e `testes unitários`
 
-Atualmente aprendendo `Rust`
+🤓 Estudando `Linux`, `C` e `Rust`
 
 Você pode baixar o meu currículo
 [**aqui**](https://github.com/joao-arthur/aboutme.md/releases/latest/download/curriculum-joao-arthur-pt.pdf)
