@@ -36,5 +36,7 @@ Você pode baixar o meu currículo
 - **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur)](https://git.io/streak-stats)
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true&theme=dark" />
