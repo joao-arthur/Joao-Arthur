@@ -1,3 +1,13 @@
+<div align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" alt="GitHub Streak" />
+  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" alt="Top Languages" />
+
+</div>
+
 ## Hello, I'm João
 
 ### Fullstack Developer for 6 years
@@ -35,6 +45,3 @@ Você pode baixar o meu currículo
 - **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
 - **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" />
