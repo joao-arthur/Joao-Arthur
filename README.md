@@ -37,4 +37,4 @@ Você pode baixar o meu currículo
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true&theme=dark" />
