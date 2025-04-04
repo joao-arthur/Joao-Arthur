@@ -37,6 +37,14 @@ Você pode baixar o meu currículo
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
 
 <picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur" />
 </picture>
 
@@ -53,12 +61,12 @@ Você pode baixar o meu currículo
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true" />
 </picture>
