@@ -1,11 +1,8 @@
 <div align="center">
-
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" height="200" />
   </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" height="200" />
 </div>
 
 ## Hello, I'm João
