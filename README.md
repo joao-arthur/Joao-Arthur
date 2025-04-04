@@ -35,3 +35,30 @@ Você pode baixar o meu currículo
 - **E-mail** [joao.lothamer@gmail.com](mailto://joao.lothamer@gmail.com)
 - **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 - **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
+
+<picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joao-arthur&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=joao-arthur&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joao-arthur&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&show_icons=true" />
+</picture>
