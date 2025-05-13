@@ -1,9 +1,11 @@
 <div align="center">
-  [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark)](https://git.io/streak-stats)
-  [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-arthur&layout=compact&theme=dark)]()
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joao-arthur&theme=dark" height="200" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-arthur&layout=compact&show_icons=true&theme=dark" height="200" />
 </div>
 
-# Olá / Hello, I’m João
+# Olá / Hola / Hello, I’m João
 
 | 🇺🇸 English                               | 🇧🇷 Português                               |
 | ---------------------------------------- | ------------------------------------------ |
@@ -13,7 +15,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 My Stack
 
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff" />
