@@ -8,11 +8,13 @@
 # Olá / Hola / Hello, I’m João
 
 <div align="center">
+
 | 🇺🇸 English                               | 🇧🇷 Português                               |
 | ---------------------------------------- | ------------------------------------------ |
 | 👨‍💻 **Fullstack Developer** for 6 years | 👨‍💻 **Desenvolvedor Fullstack** há 6 anos |
 | 🎓 Computer Scientist                    | 🎓 Cientista da Computação                 |
 | 🔭 Diving into `Linux`, `C` & `Rust`     | 🔭 Explorando `Linux`, `C` & `Rust`        |
+
 </div>
 
 ---
